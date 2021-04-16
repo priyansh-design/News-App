@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:behavior_hideable="true"
+    app:behavior_peekHeight="16dp"
+    app:layout_behavior="com.google.android.material.bottomsheet.BottomSheetBehavior">
+    >
+    <TextView
+        android:id="@+id/heading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Filter News"
+        android:textAlignment="center"
+        android:textSize="25dp"
+        android:layout_marginBottom="10dp"
+        android:textStyle="bold"></TextView>
+    <TextView
+        android:id="@+id/countrylabel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Country"
+        app:layout_constraintTop_toBottomOf="@id/heading"
+        android:layout_marginTop="10dp"
+        android:textSize="20dp"
+        android:padding="10dp"/>
+    <Spinner
+        android:id="@+id/contrySpinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        app:layout_constraintTop_toBottomOf="@id/countrylabel"/>
+    <TextView
+        android:id="@+id/categorylabel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Category"
+        app:layout_constraintTop_toBottomOf="@id/contrySpinner"
+        android:layout_marginTop="10dp"
+        android:textSize="20dp"
+        android:padding="10dp"/>
+    <Spinner
+        android:id="@+id/categorySpinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        app:layout_constraintTop_toBottomOf="@id/categorylabel"/>
+    <Button
+        android:id="@+id/applyBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Apply"
+        android:textSize="20dp"
+        android:layout_marginTop="10dp"
+        android:background="#F9AA33"
+        app:layout_constraintTop_toBottomOf="@id/categorySpinner"/>
+
+
+
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
