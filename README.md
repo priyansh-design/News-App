@@ -15,6 +15,11 @@
 
 ## Description
 
-### This app shows the user news from different fields like Entertainment,Sports,Science etc.This also has a filter feature by which you can select the news from different countries.
+This app shows the user news from different fields like Entertainment,Sports,Science etc.This also has a filter feature by which you can select the news from different countries.
+This app uses Volley library for fetching data from this [api](https://saurav.tech/NewsAPI/)
 
-### This app uses Volley library for fetching data from this [api](https://saurav.tech/NewsAPI/)
+## Categories
+Entertainment,Sports,Science,Business,Health,Technology.
+
+## Countries
+India,Australia,Russia,USA,UK,France.
