@@ -1,9 +1,12 @@
 # News-App
 
 # Images
-![alt text](https://github.com/priyansh-design/News-App/blob/main/pics/image%201.jfif)
-![alt text](https://github.com/priyansh-design/News-App/blob/main/pics/image%202.jfif)
-![alt text](https://github.com/priyansh-design/News-App/blob/main/pics/image%203.jfif)
+<!--![alt text](https://github.com/priyansh-design/News-App/blob/main/pics/image%201.jfif)-->
+<img align="left" width="33%" src="https://github.com/priyansh-design/News-App/blob/main/pics/image%201.jfif">
+<img align="centre" width="33%" src="https://github.com/priyansh-design/News-App/blob/main/pics/image%202.jfif">
+<img align="right" width="33%" src="https://github.com/priyansh-design/News-App/blob/main/pics/image%203.jfif">
+<!--![alt text](https://github.com/priyansh-design/News-App/blob/main/pics/image%202.jfif)
+![alt text](https://github.com/priyansh-design/News-App/blob/main/pics/image%203.jfif)-->
 
 
 ## Description
