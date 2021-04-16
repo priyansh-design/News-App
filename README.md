@@ -23,3 +23,11 @@ Entertainment,Sports,Science,Business,Health,Technology.
 
 ## Countries
 India,Australia,Russia,USA,UK,France.
+
+## Download 
+#### You can download the app using the apk file
+To locate the apk file follow the below mention steps:-
+<br>
+app->build->outputs->apk->debug->app-debug.apk
+
+
