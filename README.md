@@ -2,8 +2,8 @@
 
 # Images
 <!--![alt text](https://github.com/priyansh-design/News-App/blob/main/pics/image%201.jfif)-->
-<img align="left" width="25%" height="500px" src="https://github.com/priyansh-design/News-App/blob/main/pics/image%201.jfif">
-<img align="centre" width="25%" src="https://github.com/priyansh-design/News-App/blob/main/pics/image%202.jfif">
+<img display=flex align="left" width="25%" height="500px" src="https://github.com/priyansh-design/News-App/blob/main/pics/image%201.jfif">
+<img display=flex align="centre" width="25%" src="https://github.com/priyansh-design/News-App/blob/main/pics/image%202.jfif">
 <img display=flex align="centre" width="25%" src="https://github.com/priyansh-design/News-App/blob/main/pics/image%203.jfif">
 <!--![alt text](https://github.com/priyansh-design/News-App/blob/main/pics/image%202.jfif)
 ![alt text](https://github.com/priyansh-design/News-App/blob/main/pics/image%203.jfif)-->
