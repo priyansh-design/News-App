@@ -2,9 +2,9 @@
 
 # Images
 <!--![alt text](https://github.com/priyansh-design/News-App/blob/main/pics/image%201.jfif)-->
-<img align="left" width="32%" src="https://github.com/priyansh-design/News-App/blob/main/pics/image%201.jfif">
-<img align="centre" width="32%" src="https://github.com/priyansh-design/News-App/blob/main/pics/image%202.jfif">
-<img align="right" width="32%" src="https://github.com/priyansh-design/News-App/blob/main/pics/image%203.jfif">
+<img align="left" width="25%" height="500px" src="https://github.com/priyansh-design/News-App/blob/main/pics/image%201.jfif">
+<img align="centre" width="25%" src="https://github.com/priyansh-design/News-App/blob/main/pics/image%202.jfif">
+<img align="right" width="25%" src="https://github.com/priyansh-design/News-App/blob/main/pics/image%203.jfif">
 <!--![alt text](https://github.com/priyansh-design/News-App/blob/main/pics/image%202.jfif)
 ![alt text](https://github.com/priyansh-design/News-App/blob/main/pics/image%203.jfif)-->
 
